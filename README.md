@@ -24,8 +24,7 @@ This repository marks the beginning of my Industry Readiness Program and will se
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](www.linkedin.com/in/
-nallirajahniruban)
+- [LinkedIn](www.linkedin.com/in/nallirajahniruban)
 - [GitHub Profile](https://github.com/niruban-codes)  
 
 ---
